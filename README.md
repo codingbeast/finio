@@ -11,6 +11,24 @@ Finio is a premium, beautifully crafted personal expense tracker built with Flut
 - **Offline First & Blazing Fast:** Powered by Hive NoSQL, Finio doesn't rely on a server, ensuring instant load times and complete data privacy.
 - **OLED Optimized:** The dark theme uses pure black (`#000000`), turning off pixels on OLED screens to save battery while making the neon UI elements pop!
 
+## 📸 Screenshots & Demo
+**⬇️ Download the App:** [Download APK via Google Drive](https://drive.google.com/file/d/1LzLB1SYvLx72Osje2mb1Llizlhj9hM0z/view?usp=sharing)
+
+*For more samples, including all high-res screenshots, go to the `demo` folder.*
+
+### Dark Theme
+| Image 1 | Image 2 | Image 3 |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/codingbeast/finio/main/demo/dark_1.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/codingbeast/finio/main/demo/dark_2.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/codingbeast/finio/main/demo/dark_3.jpg" width="250"/> |
+
+### Light Theme
+| Image 1 | Image 2 | Image 3 |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/codingbeast/finio/main/demo/light_1.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/codingbeast/finio/main/demo/light_2.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/codingbeast/finio/main/demo/light_3.jpg" width="250"/> |
+
+### 🎥 App Demo Video
+[Click here to watch the full Video Demo](https://github.com/codingbeast/finio/raw/main/demo/demo_video.mp4)
+
 ## 🛠️ Tech Stack
 
 - **Framework:** [Flutter](https://flutter.dev/)
@@ -28,7 +46,7 @@ Make sure you have [Flutter](https://docs.flutter.dev/get-started/install) insta
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:codingbeast/finio.git
    cd finio
    ```
 

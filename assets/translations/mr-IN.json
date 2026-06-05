@@ -1,0 +1,41 @@
+{
+  "actions": {
+    "comingSoon": "लवकरच येत आहे",
+    "saveTransaction": "व्यवहार सेव्ह करा"
+  },
+  "home": {
+    "summary": "सारांश",
+    "totalSpend": "या महिन्याचा एकूण खर्च",
+    "vsLastMonth": "मागील महिन्याच्या तुलनेत 12%",
+    "categories": "श्रेणी",
+    "recentTransactions": "अलीकडील व्यवहार",
+    "noTransactions": "कोणतेही व्यवहार आढळले नाहीत."
+  },
+  "settings": {
+    "title": "सेटिंग्ज",
+    "appearance": "देखावा",
+    "system": "सिस्टम",
+    "light": "लाईट",
+    "dark": "डार्क",
+    "language": "भाषा"
+  },
+  "transaction": {
+    "addTitle": "व्यवहार जोडा",
+    "expense": "खर्च",
+    "income": "उत्पन्न",
+    "titleLabel": "शीर्षक",
+    "amountLabel": "रक्कम",
+    "dateLabel": "तारीख आणि वेळ",
+    "categoryHint": "श्रेणी",
+    "fillAllFields": "कृपया सर्व फील्ड भरा",
+    "validAmount": "कृपया योग्य रक्कम प्रविष्ट करा",
+    "today": "आज",
+    "yesterday": "काल"
+  },
+  "categories": {
+    "food": "अन्न",
+    "travel": "प्रवास",
+    "shopping": "खरेदी",
+    "bills": "बिले"
+  }
+}

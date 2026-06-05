@@ -1,0 +1,41 @@
+{
+  "actions": {
+    "comingSoon": "जल्द आ रहा है",
+    "saveTransaction": "लेन-देन सहेजें"
+  },
+  "home": {
+    "summary": "सारांश",
+    "totalSpend": "इस महीने का कुल खर्च",
+    "vsLastMonth": "पिछले महीने की तुलना में 12%",
+    "categories": "श्रेणियां",
+    "recentTransactions": "हाल के लेन-देन",
+    "noTransactions": "कोई लेन-देन नहीं मिला।"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "appearance": "दिखावट",
+    "system": "सिस्टम",
+    "light": "लाइट",
+    "dark": "डार्क",
+    "language": "भाषा"
+  },
+  "transaction": {
+    "addTitle": "लेन-देन जोड़ें",
+    "expense": "खर्च",
+    "income": "आय",
+    "titleLabel": "शीर्षक",
+    "amountLabel": "राशि",
+    "dateLabel": "तारीख और समय",
+    "categoryHint": "श्रेणी",
+    "fillAllFields": "कृपया सभी फ़ील्ड भरें",
+    "validAmount": "कृपया एक वैध राशि दर्ज करें",
+    "today": "आज",
+    "yesterday": "कल"
+  },
+  "categories": {
+    "food": "भोजन",
+    "travel": "यात्रा",
+    "shopping": "खरीदारी",
+    "bills": "बिल"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "actions": {
+    "comingSoon": "coming soon",
+    "saveTransaction": "Save Transaction"
+  },
+  "home": {
+    "summary": "Summary",
+    "totalSpend": "Total Spend this Month",
+    "vsLastMonth": "12% vs last month",
+    "categories": "Categories",
+    "recentTransactions": "Recent Transactions",
+    "noTransactions": "No transactions found."
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "language": "Language"
+  },
+  "transaction": {
+    "addTitle": "Add Transaction",
+    "expense": "Expense",
+    "income": "Income",
+    "titleLabel": "Title",
+    "amountLabel": "Amount",
+    "dateLabel": "Date & Time",
+    "categoryHint": "Category",
+    "fillAllFields": "Please fill all fields",
+    "validAmount": "Please enter a valid amount",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "categories": {
+    "food": "Food",
+    "travel": "Travel",
+    "shopping": "Shopping",
+    "bills": "Bills"
+  }
+}
